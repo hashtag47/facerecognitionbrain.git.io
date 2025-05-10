@@ -1,0 +1,10 @@
+.tilt {
+  background: linear-gradient(89deg, #ff5edf 0%, #04c8de 100%);
+  padding: 2vh;
+  height: "30vh";
+  width: "15vw";
+  .brain-logo {
+    width: minmax(64px, 20vw);
+    height: minmax(64px, 20vh);
+  }
+}
